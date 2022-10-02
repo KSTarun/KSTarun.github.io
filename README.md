@@ -1,1 +1,6 @@
-"# KSTarun.github.io" 
+# Personal Portfolio
+
+## Pages
+
+1. About - Complete
+2. Resume - In progress
